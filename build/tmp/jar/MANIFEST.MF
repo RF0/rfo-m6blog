@@ -4,5 +4,5 @@ Bundle-Name: rfo blog
 Bundle-SymbolicName: com.enonic.wem.modules.rfo-blog
 Bundle-Version: 1.0.0
 Created-By: 1.8.0 (Oracle Corporation)
-Private-Package: module.xml
+Private-Package: lib.view,module.xml,page.blog-list,view
 Tool: Bnd-2.3.0.201405100607
